@@ -2,7 +2,7 @@
   <div>
     <MainSection title="Home" :loading="loading">
       <Head>
-        <Title>Home / FaceTwitter</Title>
+        <Title>Home / Twitter</Title>
       </Head>
 
       <div class="border-b" :class="twitterBorderColor">
